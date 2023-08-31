@@ -6,7 +6,7 @@ Feel free to change name and extension to use it with your favourite device/soft
 
 If you want help, you can send the keys you collect, but BE SURE THEY AREN'T DIVERSIFIED.
 
-============================================================================================================================
+==========================================================================================================
 
   Here is a quick checklist to be sure the key is not-diversified:
  
@@ -16,7 +16,7 @@ If you want help, you can send the keys you collect, but BE SURE THEY AREN'T DIV
  
   If the key/keys is/are valid on both tags, it/they should be not-diversified and you are pretty wellcome to share them.
   
-============================================================================================================================
+==========================================================================================================
 
 You can open a pull request with the key/keys you discovered.
 Every few weeks I'll merge them in the dictionary.
