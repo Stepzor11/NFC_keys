@@ -26,4 +26,4 @@ Made with love by Stepzor
 
 
 Huge thanks to MCT, Proxmark and Flipper Zero comunities!
-# Thanks also to @HaisenDaemon (telegram contact) for starting this work :)
+Thanks also to @HaisenDaemon (telegram contact) for starting this work :)
