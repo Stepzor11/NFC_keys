@@ -1,10 +1,10 @@
-# NFC_keys
+## NFC_keys
 
-This is a collection of not-diversified keys.
-Feel free to change name and extension to use it with your favourite device/software.
+#This is a collection of not-diversified keys.
+#Feel free to change name and extension to use it with your favourite device/software.
 
 
-If you want help, you can send the keys you collect, but BE SURE THEY AREN'T DIVERSIFIED.
+#If you want help, you can send the keys you collect, but BE SURE THEY AREN'T DIVERSIFIED.
 
 ============================================================================================
 
