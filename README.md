@@ -1,4 +1,4 @@
-## NFC_keys
+# NFC_keys
 
 This is a collection of not-diversified keys.
 Feel free to change name and extension to use it with your favourite device/software.
@@ -37,7 +37,7 @@ Thanks also to @HaisenDaemon (telegram contact) for starting this work :)
 
 
 
-=========================== HOW TO LOAD IT ON FLIPPER ZERO =================================
+##=========================== HOW TO LOAD IT ON FLIPPER ZERO =================================
 
 Simply put the mf_classic_dict.nfc file in the microSD card in "nfc\assets" overriding the actual file.
 
