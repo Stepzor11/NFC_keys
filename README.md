@@ -1,48 +1,47 @@
 # NFC_keys
 
-This is a collection of not-diversified keys.
-Feel free to change name and extension to use it with your favourite device/software.
+This is a collection of non-diversified keys.  
+Feel free to change the name and extension to use it with your favorite device/software.
 
+**⚠️ If you want to help, you can send the keys you collect, but BE SURE THEY AREN'T DIVERSIFIED**.
 
-If you want help, you can send the keys you collect, but BE SURE THEY AREN'T DIVERSIFIED.
+---
 
-============================================================================================
+## Checklist for Non-Diversified Keys
 
-  Here is a quick checklist to be sure the key is not-diversified:
- 
-  1) Find the key/keys with your favourite attack.
-  2) Test the key/keys reading the tag.
-  3) Test the key/keys again reading a different tag from the same system.
- 
-  If the key/keys is/are valid on both tags, it/they should be not-diversified and you are pretty wellcome to share them.
-  
-============================================================================================
+Here is a quick checklist to ensure the key is not diversified:
 
-You can open a pull request with the key/keys you discovered.
-Every few weeks I'll merge them in the dictionary.
+1. **Find the Key(s)**: Use your favorite attack to find the key or keys.
+2. **Test the Key(s)**: Try reading the tag using the key or keys.
+3. **Double-Check**: Test the key or keys again by reading a different tag from the same system.
 
-THANK YOU!
+If the key(s) are valid **on both tags**, they should be non-diversified, and you are welcome to share them.
 
-Made with love by Stepzor
+---
 
+## Contributing
 
+You can open a pull request with the key(s) you've discovered.  
+Every few weeks, I'll merge them into the dictionary.
 
-Huge thanks to MCT, Proxmark and Flipper Zero comunities!
-Thanks also to @HaisenDaemon (telegram contact) for starting this work :)
+🙏 **Thank You!**
 
+💌 Made with love by Stepzor.
 
+---
 
+## Special Thanks
 
+Huge thanks to the MCT, Proxmark, and Flipper Zero communities!  
+Special thanks to @HaisenDaemon (Telegram contact) for kickstarting this work.  
 
+---
 
+## How to Load it on Flipper Zero
 
+Simply place the `mf_classic_dict.nfc` file in the microSD card under the `nfc/assets` directory, overriding the existing file.
 
-## =========================== HOW TO LOAD IT ON FLIPPER ZERO =================================
+> **⚠️ Note**: This file will be overwritten after each firmware update,  
+so you must replace it after each update or compile your firmware with this dictionary.
 
-Simply put the mf_classic_dict.nfc file in the microSD card in "nfc\assets" overriding the actual file.
-
-
-THIS FILE WILL BE OVERWRITTEN AFTER EACH FIRMWARE UPDATE,
-SO YOU MUST REPLACE IT AFTER EACH UPDATE OR COMPILE YOUR FIRMWARE WITH THIS DICTIONARY
-
-============================================================================================
+---
