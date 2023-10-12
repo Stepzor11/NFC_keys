@@ -29,3 +29,20 @@ Made with love by Stepzor
 
 Huge thanks to MCT, Proxmark and Flipper Zero comunities!
 Thanks also to @HaisenDaemon (telegram contact) for starting this work :)
+
+
+
+
+
+
+
+
+=========================== HOW TO LOAD IT ON FLIPPER ZERO =================================
+
+Simply put the mf_classic_dict.nfc file in the microSD card in "nfc\assets" overriding the actual file.
+
+
+THIS FILE WILL BE OVERWRITTEN AFTER EACH FIRMWARE UPDATE,
+SO YOU MUST REPLACE IT AFTER EACH UPDATE OR COMPILE YOUR FIRMWARE WITH THIS DICTIONARY
+
+============================================================================================
