@@ -1,6 +1,6 @@
 ##############################################################
 # 
-# Last update: 16 October 2023
+# Last update: 14 November 2023
 # -------------------------
 #  
 # Huge thanks to MCT, Proxmark and Flipper Zero comunities!
@@ -19,7 +19,7 @@
 #      
 # If the key/keys is/are valid on both tags, it/they should be not-diversified and you are pretty wellcome to share them.
 #       
-# You can open a pull request with the key/keys you discovered here:
+# You can contribute with the key/keys you have discovered here:
 # https://github.com/Stepzor11/NFC_keys/
 #        
 # Every few weeks I'll merge them in the dictionary.
@@ -3548,4 +3548,17 @@ C1F6C7B55F5E
 5A4920FD6F87
 544954CBB2C4
 4752533E1965
-##############################################################
+######################## COMMUNITY ###########################
+A7127F539A16
+D51BCA1DFFFF
+C49C9BF59547
+EB9D9C1B03F6
+8DF64AB19A16
+57E39104CC87
+6C79548B3FC3
+AF2BFB44A4A5
+570FB865D650
+5669C363A4A5
+56A4B81B3FC3
+62616E616E61
+############################################################## 
