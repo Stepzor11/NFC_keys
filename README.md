@@ -21,7 +21,7 @@ If the key(s) are valid **on both tags**, they should be non-diversified, and yo
 
 ## Contributing
 
-You can open a pull request with the key(s) you've discovered.  
+You can upload the key(s) you've discovered filling [THIS FORM](https://qjgyw58djpu.typeform.com/to/Fcvt4KKV) or opening a pull request.  
 Every few weeks, I'll merge them into the dictionary.
 
 🙏 **Thank You!**
